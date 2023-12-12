@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "MCL Wide Views",
+    "canvas-top"
+  ],
+  "textFontFamily": "Inter"
+}
