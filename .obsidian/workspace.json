@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/aliagaInteractiveExampleBasedUrban.md",
+                "file": "Vault System.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/aliagaInteractiveExampleBasedUrban.md",
+                "file": "Vault System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/aliagaInteractiveExampleBasedUrban.md",
+                "file": "Vault System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/aliagaInteractiveExampleBasedUrban.md"
+                "file": "Vault System.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "a2dae038db21c738",
   "lastOpenFiles": [
+    "Sources/aliagaInteractiveExampleBasedUrban.md",
     "Sources/emilienProceduralGenerationVillages2012.md",
     "Sources/fleischmannMethodologicalFoundationNumerical2022.md",
     "Sources/DataGoodMeta.md",
@@ -241,7 +242,6 @@
     "Sources/martinezRODGENInteractiveInterface2022.md",
     "Sources/lippInteractiveModelingCity2011.md",
     "Sources/lechnerProceduralModelingUrban2006.md",
-    "Sources/aliagaInteractiveExampleBasedUrban.md",
     "Sources/curaStreetGenBaseCity2018.md",
     "Sources/galinProceduralGenerationRoads2010.md",
     "Sources/GEOS.md",
