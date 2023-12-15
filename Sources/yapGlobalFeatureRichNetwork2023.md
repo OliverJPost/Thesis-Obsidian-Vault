@@ -30,6 +30,7 @@ completed::false
 		- population statistics per street
 		- general building function count per street (commercial, healthcare etc.)
 - & The `ubanity.building` module has functions to get footprints from Overture and OSM
+- ! It can't actually get things from overture, the code is commented out and missing
 - & The tool can be used to download both network and footprint data from anywhere!
 - & It seems to combine data from many sources. It can for example merge OSM and Overture building footprints
 

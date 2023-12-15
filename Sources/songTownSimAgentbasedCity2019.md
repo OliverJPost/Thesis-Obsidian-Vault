@@ -16,12 +16,13 @@ year: 2019
 > content: "@songTownSimAgentbasedCity2019" -file:@songTownSimAgentbasedCity2019
 > ```
 
-%% begin notes %%
+%% begin notes %%![[Pasted image 20231212122226.png]]
 ## Permanent notes
-importance::undefined
+importance::high
 completed::false
 ### Initial thoughts:
-
+- Unclear what it can actually do, as examples are small
+- Does not contain many equations
 
 ### Relations:
 

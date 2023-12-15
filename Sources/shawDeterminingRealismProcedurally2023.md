@@ -16,7 +16,7 @@ year: 2023
 > content: "@shawDeterminingRealismProcedurally2023" -file:@shawDeterminingRealismProcedurally2023
 > ```
 
-%% begin notes %%
+%% begin notes %%![[Pasted image 20231212122055.png]]
 ## Permanent notes
 importance::medium
 completed::false

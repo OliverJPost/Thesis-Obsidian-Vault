@@ -16,12 +16,14 @@ year:
 > content: "@vanegasInteractiveDesignUrban" -file:@vanegasInteractiveDesignUrban
 > ```
 
-%% begin notes %%
+%% begin notes %%![[Pasted image 20231212122946.png]]
 ## Permanent notes
-importance::undefined
+importance::extreme
 completed::false
 ### Initial thoughts:
-
+- Results look very good! Both distribution wise and street system wise
+- Seems like it's still restricted to grid, radial, and organic layouts
+- Uses raster as input
 
 ### Relations:
 

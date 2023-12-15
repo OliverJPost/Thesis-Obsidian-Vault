@@ -24,7 +24,7 @@ year: 2014
 > content: "@smelikSurveyProceduralModeling2014" -file:@smelikSurveyProceduralModeling2014
 > ```
 
-%% begin notes %%
+%% begin notes %%![[CleanShot 2023-12-12 at 12.21.45@2x.png]]
 ## Permanent notes
 importance::medium
 completed::false
