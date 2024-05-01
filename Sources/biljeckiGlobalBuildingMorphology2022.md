@@ -1,6 +1,6 @@
 ---
 aliases: ["Biljecki et al. (2022) Global Building Morphology Indicators"]
-tags: [buildings, step/analysis, type/reference, type/utility]
+tags: [🔹, buildings, step/analysis, type/reference, type/utility]
 year: 2022
 ---
 # Global Building Morphology Indicators [📖](zotero://select/library/items/4EMZ4S24)
@@ -16,10 +16,9 @@ year: 2022
 > content: "@biljeckiGlobalBuildingMorphology2022" -file:@biljeckiGlobalBuildingMorphology2022
 > ```
 
-%% begin notes %%![[CleanShot 2023-11-29 at 17.57.29@2x.png | canvas-top]]
+%% begin notes %%
+thumb::![[CleanShot 2023-11-29 at 17.57.29@2x.png | canvas-top]]
 ## Permanent notes
-importance::high
-completed::false
 ### Initial thoughts:
 - has a tool for computing them
 
@@ -37,4 +36,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:35.545+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.494+02:00 %%

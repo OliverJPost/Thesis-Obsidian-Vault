@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "year": "number"
+    "year": "number",
+    "layers": "multitext",
+    "": "multitext",
+    "implemented layers": "multitext"
   }
 }

@@ -1,6 +1,6 @@
 ---
 aliases: ["Nishida et al. (2016) Example‐Driven Procedural Urban Roads"]
-tags: [roads, step/generation, type/reference]
+tags: [roads, step/generation, type/reference, 🔸]
 year: 2016
 ---
 # Example‐Driven Procedural Urban Roads [📖](zotero://select/library/items/9IQ2G4X8)
@@ -16,10 +16,9 @@ year: 2016
 > content: "@nishidaExampleDrivenProcedural2016" -file:@nishidaExampleDrivenProcedural2016
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-10 at 23.01.13@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-10 at 23.01.13@2x.png]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Example based way of creating road networks
 - Results might be very realistic because based on real networks
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:37.459+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.209+02:00 %%

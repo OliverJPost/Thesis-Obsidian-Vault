@@ -1,6 +1,6 @@
 ---
 aliases: ["Lipp et al. (2011) Interactive Modeling of City Layouts using Layers of Procedural Content"]
-tags: [plots, roads, step/generation, type/reference]
+tags: [plots, roads, step/generation, type/reference, 🔻]
 year: 2011
 ---
 # Interactive Modeling of City Layouts using Layers of Procedural Content [📖](zotero://select/library/items/JRQ9QMBV)
@@ -16,10 +16,9 @@ year: 2011
 > content: "@lippInteractiveModelingCity2011" -file:@lippInteractiveModelingCity2011
 > ```
 
-%% begin notes %%![[Pasted image 20231210191323.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231210191323.png]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Allows editing of existing street layouts while updating the surrounding area to keep it valid 
 - Very useful but looks complicated to implement and editing is probably out of scope of the thesis
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:37.101+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.078+02:00 %%

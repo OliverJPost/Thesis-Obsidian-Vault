@@ -1,5 +1,11 @@
-# Building Heights & Levels
-#type/datatype 
+---
+possible layers:
+  - buildings
+implemented layers: 
+scale: single
+---
+# Building Height
+#type/metric 
 
 Sources:
 - https://onegeo.co has a very good dataset, but is paid

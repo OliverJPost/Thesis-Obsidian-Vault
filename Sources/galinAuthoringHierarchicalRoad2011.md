@@ -1,6 +1,6 @@
 ---
 aliases: ["Galin et al. (2011) Authoring Hierarchical Road Networks"]
-tags: [roads, step/generation, type/reference]
+tags: [roads, step/generation, type/reference, 🔻]
 year: 2011
 ---
 # Authoring Hierarchical Road Networks [📖](zotero://select/library/items/UWULHXUZ)
@@ -16,10 +16,9 @@ year: 2011
 > content: "@galinAuthoringHierarchicalRoad2011" -file:@galinAuthoringHierarchicalRoad2011
 > ```
 
-%% begin notes %%![[Pasted image 20231207151935.png|canvas-top]]
+%% begin notes %%
+thumb::![[Pasted image 20231207151935.png|canvas-top]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Very much focussed on high level road layouts between towns/cities. Out of scope
 - Perhaps some useful techniques/information for road network generation in general?
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.043+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.707+02:00 %%

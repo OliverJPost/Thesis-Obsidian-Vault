@@ -1,6 +1,6 @@
 ---
 aliases: ["Kelly (2006) A Survey of Procedural Techniques for City Generation"]
-tags: [buildings, districts, roads, step/generation, type/reference]
+tags: [buildings, districts, roads, step/generation, type/reference, 🔻]
 year: 2006
 ---
 # A Survey of Procedural Techniques for City Generation [📖](zotero://select/library/items/RVR47UG4)
@@ -16,11 +16,10 @@ year: 2006
 > content: "@kellySurveyProceduralTechniques2006" -file:@kellySurveyProceduralTechniques2006
 > ```
 
-%% begin notes %%![[Pasted image 20231207235358.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231207235358.png]]
 
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Overview of other work out there
 
@@ -49,4 +48,4 @@ Imported on 2023-11-27 16:04
 
 
 
-%% Import Date: 2023-12-07T14:17:36.603+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.924+02:00 %%

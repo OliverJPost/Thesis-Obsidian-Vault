@@ -1,6 +1,6 @@
 ---
 aliases: ["Hartmann et al. StreetGAN: Towards Road Network Synthesis with Generative Adversarial Networks"]
-tags: [roads, step/generation, type/reference, ai]
+tags: [roads, step/generation, type/reference, ai, 🔻]
 year: 
 ---
 # StreetGAN: Towards Road Network Synthesis with Generative Adversarial Networks [📖](zotero://select/library/items/VMDIWIAQ)
@@ -16,10 +16,9 @@ year:
 > content: "@hartmannStreetGANRoadNetwork" -file:@hartmannStreetGANRoadNetwork
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 15.36.08@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 15.36.08@2x.png]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - AI, out of scope of thesis
 - Results look bad
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.397+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.824+02:00 %%

@@ -1,6 +1,6 @@
 ---
 aliases: ["Marshall (2016) Line structure representation for road network analysis"]
-tags: [roads, step/analysis, type/reference]
+tags: [🔹, roads, step/analysis, type/reference]
 year: 2016
 ---
 # Line structure representation for road network analysis [📖](zotero://select/library/items/PMUDS75Z)
@@ -16,10 +16,9 @@ year: 2016
 > content: "@marshallLineStructureRepresentation2016" -file:@marshallLineStructureRepresentation2016
 > ```
 
-%% begin notes %%![[Pasted image 20231210192649.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231210192649.png]]
 ## Permanent notes
-importance::high 
-completed::false
 ### Initial thoughts:
 - seems to present an alternative to the graph representation of road networks for analysis
 - Looks complicated, might not have the time
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:37.285+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.132+02:00 %%

@@ -16,10 +16,9 @@ year: 2010
 > content: "@galinProceduralGenerationRoads2010" -file:@galinProceduralGenerationRoads2010
 > ```
 
-%% begin notes %%![[Pasted image 20231207152300.png|canvas-top]]
+%% begin notes %%
+thumb::![[Pasted image 20231207152300.png|canvas-top]]
 ## Permanent notes
-importance::extreme
-completed::false
 ### Initial thoughts:
 - Even though it only focusses on rural landscapes, it's full of math and cost functions that could be very useful
 

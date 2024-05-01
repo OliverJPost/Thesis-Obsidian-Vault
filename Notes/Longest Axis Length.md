@@ -1,3 +1,12 @@
+---
+possible layers:
+  - blocks
+  - buildings
+  - enclosures
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Longest Axis Length
 #type/metric 
 

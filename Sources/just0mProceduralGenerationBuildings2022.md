@@ -1,6 +1,6 @@
 ---
 aliases: ["JUST0M (2022) Procedural Generation of Buildings"]
-tags: [buildings, roads, step/generation, type/implementation]
+tags: [buildings, roads, step/generation, type/implementation, 🔻]
 year: 2022
 ---
 # Procedural Generation of Buildings [📖](zotero://select/library/items/J6QMMWFU)
@@ -16,10 +16,9 @@ year: 2022
 > content: "@just0mProceduralGenerationBuildings2022" -file:@just0mProceduralGenerationBuildings2022
 > ```
 
-%% begin notes %%![[Pasted image 20231207191150.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231207191150.png]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Probably out of scope, too complex Buildings
 - Focusses on 3D generation instead of footprint starting point
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.493+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.894+02:00 %%

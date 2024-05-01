@@ -1,6 +1,6 @@
 ---
 aliases: ["Bidarra et al. Integrating semantics and procedural generation: key enabling factors for declarative modeling of virtual worlds"]
-tags: [buildings, districts, plots, roads, step/generation, type/reference]
+tags: [buildings, districts, plots, roads, step/generation, type/reference, 🔸]
 year: 
 ---
 # Integrating semantics and procedural generation: key enabling factors for declarative modeling of virtual worlds [📖](zotero://select/library/items/RQ6EVPF6)
@@ -16,10 +16,9 @@ year:
 > content: "@bidarraIntegratingSemanticsProcedural" -file:@bidarraIntegratingSemanticsProcedural
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 14.30.55@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 14.30.55@2x.png]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Seems focussed on **user-interfaces** and what language/semantics to use to make a tool **user-friendly** for designers.
 
@@ -37,4 +36,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:35.462+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.484+02:00 %%

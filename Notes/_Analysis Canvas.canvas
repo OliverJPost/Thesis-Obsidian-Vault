@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0d6e3db3ae127833","type":"file","file":"Notes/Download data.md","x":-760,"y":-380,"width":400,"height":400},
+		{"id":"84b2d6731201fe44","type":"file","file":"Notes/Process data.md","x":-200,"y":-380,"width":400,"height":400},
+		{"id":"ebb7c3044cdf054c","type":"file","file":"Notes/Analyze data.md","x":1180,"y":-380,"width":400,"height":400},
+		{"id":"e3ec8bc79961bd21","type":"file","file":"Notes/Cluster data.md","x":520,"y":-780,"width":400,"height":400},
+		{"id":"1e78b1736cf59aed","type":"file","file":"Notes/Export profiles.md","x":1760,"y":-380,"width":400,"height":400},
+		{"id":"48ced2c6b47f47e5","type":"file","file":"Notes/_Analysis MOC.md","x":520,"y":-1400,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"bd0c06041e573d30","fromNode":"0d6e3db3ae127833","fromSide":"right","toNode":"84b2d6731201fe44","toSide":"left"},
+		{"id":"10a3416afa48ebab","fromNode":"84b2d6731201fe44","fromSide":"right","toNode":"e3ec8bc79961bd21","toSide":"left"},
+		{"id":"2c9f5e6874cce7dc","fromNode":"e3ec8bc79961bd21","fromSide":"right","toNode":"ebb7c3044cdf054c","toSide":"left"},
+		{"id":"13118e946e88db71","fromNode":"84b2d6731201fe44","fromSide":"right","toNode":"ebb7c3044cdf054c","toSide":"left"},
+		{"id":"6fdb2516552bf276","fromNode":"ebb7c3044cdf054c","fromSide":"right","toNode":"1e78b1736cf59aed","toSide":"left"}
+	]
+}

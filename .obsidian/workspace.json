@@ -8,27 +8,381 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d8853f0d5ec980a",
+            "id": "32fd75802cfae415",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sources/_Reference MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "34ff122c5eb70874",
+            "id": "0028ea2ebb5bea63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/lechnerProceduralModelingUrban2006.md",
+                "file": "Notes/_Generation MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a7b32a4f0c601e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/_Generation MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6fbba7d5e8c3585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cluster data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19114feb0c0f6601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Street pattern clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20251aa90c132da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road nodes & edges layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b1d095e4b600ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road nodes & edges layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff9ecf2926cb7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Export profiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "590b12ff10cbf230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Analyze data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f9ae6c591f940b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cluster data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50873af74047dc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cluster data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adcf9868c4f0f577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Street pattern clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a16e0db5acd7f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cluster data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b849c661feff1824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Download data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb487fc96dac1458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road nodes & edges layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b2ce4d595ad4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Adjacency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5681060ad0909d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a5ed70965b53b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Main roads experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db4ac753ca0d0eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/OpenStreetMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f0864e45e3a9717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/shared walls ratio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b354c8f99d30de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Mean interbuilding distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9cb8ffefa376652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intersection angle distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c3446b242cae54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intersection angle distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9364bf19a1bc9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d4fad6a0f373e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road Density.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca7c9d3d56b4be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Accessibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a9209d7df74d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Blocks layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11aad509507049cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tessellation layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5db7c0f4df45066f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Road nodes & edges layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2d5620bf07ec621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Building layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35608d1061bd4e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cluster data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -42,22 +396,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0474d1ea76092b07",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "7a87814674fc5f42",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#type/experiment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,6 +416,23 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dac21235e66f6fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0474d1ea76092b07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -94,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/lechnerProceduralModelingUrban2006.md",
+                "file": "Sources/OpenStreetMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +472,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/lechnerProceduralModelingUrban2006.md",
+                "file": "Sources/OpenStreetMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/lechnerProceduralModelingUrban2006.md"
+                "file": "Sources/OpenStreetMap.md"
               }
             }
           },
@@ -144,11 +505,24 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6ff606e8fd019c65",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sources/OpenStreetMap.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,6 +531,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,42 +541,61 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34ff122c5eb70874",
+  "active": "db4ac753ca0d0eef",
   "lastOpenFiles": [
-    "_Vault/_Attachments/Pasted image 20231214143347.png",
-    "_Vault/_Attachments/Pasted image 20231214143355.png",
-    "_Vault/_Attachments/Pasted image 20231214143353.png",
-    "_Vault/_Attachments/Pasted image 20231214143407.png",
-    "_Vault/_Attachments/Pasted image 20231214143459.png",
-    "_Vault/_Attachments/Pasted image 20231214232657.png",
-    "_Vault/_Attachments/Pasted image 20231214143421.png",
-    "_Vault/_Attachments/Pasted image 20231214155531.png",
-    "_Vault/_Attachments/Pasted image 20231214150519.png",
-    "_Vault/_Attachments/Pasted image 20231214231543.png",
-    "_Vault/_Attachments/Pasted image 20231215011858.png",
-    "Notes/Building Heights & Levels.md",
-    "Notes/CircularCompactness.md",
-    "Notes/Building Footprints.md",
-    "Notes/Compactness Weighted Axis.md",
-    "Notes/Corner Count.md",
+    "Notes/P1.md",
+    "Notes/Main roads experiment.md",
+    "_Vault/_Attachments/CleanShot 2024-01-11 at 13.33.05@2x.png",
+    "Notes/Road Generation.md",
+    "Notes/All roads generation experiment population based.md",
+    "_Vault/_Attachments/CleanShot 2024-01-11 at 13.37.10@2x.png",
+    "Notes/Visualisation MOC.md",
+    "Notes/Adjacency.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.17.40@2x.png",
     "Notes/Area.md",
-    "Notes/Convexity.md",
-    "Notes/Volume.md",
-    "Notes/Elongation.md",
-    "Notes/Longest Axis Length.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.15.40@2x.png",
     "Notes/Equivalent Rectangular index.md",
-    "Notes/Momepy clustering experiment.md",
-    "Notes/rectangularity.md",
-    "Notes/Perimeter.md",
-    "Notes/Agent based simulation.md",
-    "Notes/agent based simulation.md",
-    "Notes/Agent Based M.md",
-    "Notes/Untitled.md",
-    "Sources/lippInteractiveModelingCity2011.md",
-    "Sources/lechnerProceduralModelingUrban2006.md",
-    "Sources/labetski3DBuildingMetrics2023.md",
-    "Sources/hartmannStreetGANRoadNetwork.md",
-    "Sources/boeingOSMnx2023.md",
-    "_Vault/templates/default.md"
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.15.05@2x.png",
+    "Notes/Elongation.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.13.16@2x.png",
+    "Notes/shared walls ratio.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.12.33@2x.png",
+    "Notes/Neighbor distance.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.11.13@2x.png",
+    "Notes/Mean interbuilding distance.md",
+    "_Vault/_Attachments/CleanShot 2024-02-08 at 00.10.34@2x.png",
+    "Notes/Betweenness centrality.md",
+    "_Vault/_Attachments/image 3 3.png",
+    "Notes/Clustering coefficient.md",
+    "Notes/Closeness centrality.md",
+    "Notes/Road nodes & edges layer.md",
+    "Notes/Process data.md",
+    "Notes/Boundary determination.md",
+    "Notes/Download data.md",
+    "Notes/Cluster data.md",
+    "Notes/Road contextualizing.md",
+    "Notes/Analyze data.md",
+    "Notes/Node degree.md",
+    "Notes/Street pattern clustering experiment 1.md",
+    "Notes/Street pattern clustering.md",
+    "Notes/Building block clustering.md",
+    "Building block clustering experiment 27",
+    "Notes/_Generation Canvas.canvas",
+    "Notes/_Analysis Canvas.canvas",
+    "_Vault/dv.js",
+    "_Vault/reftab.js",
+    "_Vault/refTab.js",
+    "Notes/_Pipeline.canvas",
+    "Notes/Process data.canvas",
+    "Notes/Block Generation.canvas",
+    "Notes/Grid & Road Generation.canvas",
+    "Notes/Export profiles.canvas",
+    "Notes/Analyze data.canvas",
+    "Notes/Cluster data.canvas",
+    "Notes/Download data.canvas",
+    "[[Sources",
+    "temp/img/parishProceduralModelingCities",
+    "temp/img",
+    "temp"
   ]
 }

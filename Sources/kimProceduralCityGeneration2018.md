@@ -1,6 +1,6 @@
 ---
 aliases: ["Kim et al. (2018) Procedural city generation beyond game development"]
-tags: [buildings, districts, roads, step/generation, type/reference]
+tags: [💎, buildings, districts, roads, step/generation, type/reference]
 year: 2018
 ---
 # Procedural city generation beyond game development [📖](zotero://select/library/items/3AJZPRHL)
@@ -16,10 +16,9 @@ year: 2018
 > content: "@kimProceduralCityGeneration2018" -file:@kimProceduralCityGeneration2018
 > ```
 
-%% begin notes %%![[Pasted image 20231207235559.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231207235559.png]]
 ## Permanent notes
-importance::extreme
-completed::false
 ### Initial thoughts:
 - Writes about what is important in procedural city generation for real use cases, not just game development
 
@@ -37,4 +36,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.894+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.956+02:00 %%

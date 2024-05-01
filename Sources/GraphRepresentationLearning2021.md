@@ -1,6 +1,6 @@
 ---
 aliases: [" (2021) Graph representation learning for road type classification"]
-tags: [roads, step/analysis, type/reference]
+tags: [roads, step/analysis, type/reference, ai, 🔻]
 year: 2021
 ---
 # Graph representation learning for road type classification [📖](zotero://select/library/items/DUPRMZMV)
@@ -16,10 +16,9 @@ year: 2021
 > content: "@GraphRepresentationLearning2021" -file:@GraphRepresentationLearning2021
 > ```
 
-%% begin notes %%![[Pasted image 20231207152711.png|canvas-top]]
+%% begin notes %%
+thumb::![[Pasted image 20231207152711.png|canvas-top]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - It's deep learning based, out of scope of thesis
 - Could still be useful to find references to non-AI ways or calculation of indicators
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.261+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.791+02:00 %%

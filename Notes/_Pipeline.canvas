@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"a74171abec4067bd","type":"file","file":"Notes/_Analysis Canvas.canvas","x":-580,"y":-140,"width":400,"height":400},
+		{"id":"fecd802a28c1c3f0","type":"text","text":"**Analyze**","x":-580,"y":-240,"width":250,"height":60},
+		{"id":"4e5908f7d047bc90","x":-40,"y":-240,"width":250,"height":60,"type":"text","text":"**Generation**"},
+		{"id":"1bf7130668cce008","x":-40,"y":-140,"width":400,"height":400,"type":"file","file":"Notes/_Generation Canvas.canvas"},
+		{"id":"329754bfa54b9a0e","x":460,"y":-240,"width":250,"height":60,"type":"text","text":"**Visualisation**"}
+	],
+	"edges":[
+		{"id":"b67a3985a8c52808","fromNode":"a74171abec4067bd","fromSide":"right","toNode":"1bf7130668cce008","toSide":"left"}
+	]
+}

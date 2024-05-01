@@ -1,6 +1,6 @@
 ---
 aliases: ["Emilien et al. (2012) Procedural Generation of Villages on Arbitrary Terrains"]
-tags: [roads, step/generation, type/reference]
+tags: [🔹, roads, step/generation, type/reference]
 year: 2012
 ---
 # Procedural Generation of Villages on Arbitrary Terrains [📖](zotero://select/library/items/G45G7BQI)
@@ -16,11 +16,9 @@ year: 2012
 > content: "@emilienProceduralGenerationVillages2012" -file:@emilienProceduralGenerationVillages2012
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 15.04.04@2x.png|canvas-top]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 15.04.04@2x.png|canvas-top]]
 ## Permanent notes
-importance::high
-(Because plots)
-completed::false
 ### Initial thoughts:
 - Focusses very much on non-urban landscapes, making it less relevant
 - & Has an interesting [[plots]] generation method that works on non-closed blocks
@@ -39,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:35.921+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.651+02:00 %%

@@ -1,6 +1,6 @@
 ---
 aliases: ["Aliaga et al. Interactive Example-Based Urban Layout Synthesis"]
-tags: [roads, step/generation, type/reference]
+tags: [🔹, roads, step/generation, type/reference]
 year: 
 ---
 # Interactive Example-Based Urban Layout Synthesis [📖](zotero://select/library/items/Q344VBL7)
@@ -17,12 +17,9 @@ year:
 > ```
 
 %% begin notes %%
-![[CleanShot 2023-12-07 at 14.11.15@2x 1.png | canvas-top]]
+thumb::![[CleanShot 2023-12-07 at 14.11.15@2x 1.png | canvas-top]]
 
 ## Permanent notes
-importance::high
-completed::false
-keywords::[example-based, graphs, random-walk]
 ### Initial thoughts:
 - Allows users to create new urban layouts by ==joining, expanding, and blending== **existing** street networks.
 - **Example-based**
@@ -44,4 +41,4 @@ keywords::[example-based, graphs, random-walk]
 
 
 
-%% Import Date: 2023-12-07T14:17:35.059+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.358+02:00 %%

@@ -7,5 +7,9 @@
   "templater-obsidian",
   "supercharged-links-obsidian",
   "obsidian-banners",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-sortable",
+  "omnisearch",
+  "text-extractor",
+  "obsidian-kanban"
 ]

@@ -1,3 +1,12 @@
+---
+possible layers:
+  - blocks
+  - enclosures
+  - buildings
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Circular Compactness
 #type/metric 
 data::footprints

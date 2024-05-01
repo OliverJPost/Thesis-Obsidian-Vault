@@ -18,8 +18,6 @@ year: 2022
 
 %% begin notes %%
 ## Permanent notes
-importance::undefined
-completed::false
 ### Initial thoughts:
 
 
@@ -37,4 +35,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:37.639+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.307+02:00 %%

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/martinezRODGENInteractiveInterface2022.md",
+                "file": "Sources/weberInteractiveGeometricSimulation2009.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sources/martinezRODGENInteractiveInterface2022.md",
+            "file": "Sources/weberInteractiveGeometricSimulation2009.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sources/martinezRODGENInteractiveInterface2022.md",
+            "file": "Sources/weberInteractiveGeometricSimulation2009.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sources/martinezRODGENInteractiveInterface2022.md"
+            "file": "Sources/weberInteractiveGeometricSimulation2009.md"
           }
         }
       }
@@ -151,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92390d6738d6d584",
+  "active": "43a2c53f8e003fca",
   "lastOpenFiles": [
+    "Sources/_MOC.md",
+    "Sources/martinezRODGENInteractiveInterface2022.md",
     "Sources/marshallLineStructureRepresentation2016.md",
     "_Vault/_Attachments/Pasted image 20231210192649.png",
     "Sources/marechalProceduralGenerationRoads2010.md",
@@ -174,7 +176,6 @@
     "Untitled.canvas",
     "_Vault/_Attachments/image-4-x139-y0.png",
     "Notes/Use global population density map.md",
-    "Sources/martinezRODGENInteractiveInterface2022.md",
     "Sources/OriginalNewton64Ca.md",
     "Sources/GraphRepresentationLearning2021.md",
     "Sources/GitHubProbableTrainMapGenerator.md",

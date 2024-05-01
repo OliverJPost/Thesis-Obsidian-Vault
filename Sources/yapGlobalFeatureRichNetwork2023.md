@@ -1,6 +1,6 @@
 ---
 aliases: ["Yap et al. (2023) A Global Feature-Rich Network Dataset of Cities and Dashboard for Comprehensive Urban Analyses"]
-tags: [districts, plots, poi, roads, type/utility, type/data]
+tags: [💎, districts, plots, poi, roads, type/data, type/utility]
 year: 2023
 ---
 # A Global Feature-Rich Network Dataset of Cities and Dashboard for Comprehensive Urban Analyses [📖](zotero://select/library/items/Y889UC9Q)
@@ -18,8 +18,6 @@ year: 2023
 
 %% begin notes %%
 ## Permanent notes
-importance::extreme
-completed::false
 ### Initial thoughts:
 - Dataset that combines data from many sources into a ==network== of edges and nodes.
 - Not only offers combined data, but is thoroughly checked for quality
@@ -51,4 +49,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:40.004+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.678+02:00 %%

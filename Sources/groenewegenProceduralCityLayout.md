@@ -1,6 +1,6 @@
 ---
 aliases: ["Groenewegen et al. Procedural City Layout Generation Based on Urban Land Use Models"]
-tags: [districts, roads, step/generation, type/reference]
+tags: [💎, districts, roads, step/generation, type/reference]
 year: 
 ---
 # Procedural City Layout Generation Based on Urban Land Use Models [📖](zotero://select/library/items/NA7PQUH7)
@@ -22,11 +22,9 @@ year:
 > content: "@groenewegenProceduralCityLayout" -file:@groenewegenProceduralCityLayout
 > ```
 
-%% begin notes %%![[Pasted image 20231207153455.png|canvas-top]]
+%% begin notes %%
+thumb::![[Pasted image 20231207153455.png|canvas-top]]
 ## Permanent notes
-importance::high
-(district types)
-completed::false
 ### Initial thoughts:
 - & Creates a set of 18 districts!
 - Results look very bad
@@ -48,4 +46,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.309+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.807+02:00 %%

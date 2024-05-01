@@ -1,6 +1,6 @@
 ---
 aliases: ["Song et al. (2019) TownSim"]
-tags: [roads, step/generation, type/reference, type/implementation]
+tags: [🔹, roads, step/generation, type/implementation, type/reference]
 year: 2019
 ---
 # TownSim: agent-based city evolution for naturalistic road network generation [📖](zotero://select/library/items/D8FHV56L)
@@ -16,10 +16,9 @@ year: 2019
 > content: "@songTownSimAgentbasedCity2019" -file:@songTownSimAgentbasedCity2019
 > ```
 
-%% begin notes %%![[Pasted image 20231212122226.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231212122226.png]]
 ## Permanent notes
-importance::high
-completed::false
 ### Initial thoughts:
 - Unclear what it can actually do, as examples are small
 - Does not contain many equations
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.659+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.479+02:00 %%

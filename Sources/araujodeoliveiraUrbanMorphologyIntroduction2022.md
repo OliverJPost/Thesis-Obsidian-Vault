@@ -1,6 +1,6 @@
 ---
 aliases: ["Araújo De Oliveira (2022) Urban Morphology"]
-tags: [buildings, districts, roads, step/analysis, type/reference]
+tags: [buildings, districts, roads, step/analysis, type/reference, 🔸]
 year: 2022
 ---
 # Urban Morphology: An Introduction to the Study of the Physical Form of Cities [📖](zotero://select/library/items/R7FITFXW)
@@ -14,10 +14,9 @@ year: 2022
 > content: "@araujodeoliveiraUrbanMorphologyIntroduction2022" -file:@araujodeoliveiraUrbanMorphologyIntroduction2022
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 14.30.04@2x.png|canvas-top]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 14.30.04@2x.png|canvas-top]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Read to get a broad overview of what Morphology is about and what other works are out there
 - Chapter 2 divides the city into "the natural context" #terrain , "the streets system" #roads, "the plots system" #plots and "the buildings system" #buildings 
@@ -45,4 +44,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:35.247+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.364+02:00 %%

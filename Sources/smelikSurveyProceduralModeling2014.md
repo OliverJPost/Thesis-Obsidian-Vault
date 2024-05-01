@@ -1,6 +1,6 @@
 ---
 aliases: ["Smelik et al. (2014) A Survey on Procedural Modeling for Virtual Worlds"]
-tags: [buildings, districts, roads, step/generation, type/reference]
+tags: [buildings, districts, roads, step/generation, type/reference, 🔸]
 year: 2014
 ---
 # A Survey on Procedural Modeling for Virtual Worlds [📖](zotero://select/library/items/KBP64BNV)
@@ -24,10 +24,9 @@ year: 2014
 > content: "@smelikSurveyProceduralModeling2014" -file:@smelikSurveyProceduralModeling2014
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-12 at 12.21.45@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-12 at 12.21.45@2x.png]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Already read, gives useful links to other works
 
@@ -45,4 +44,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.583+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.473+02:00 %%

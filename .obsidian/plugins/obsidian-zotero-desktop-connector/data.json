@@ -7,6 +7,13 @@
   "citeFormats": [],
   "exportFormats": [
     {
+      "name": "cat feb 2023",
+      "outputPathTemplate": "temp/cat_template.md",
+      "imageOutputPathTemplate": "temp/img/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "_Vault/templates/cat template.md"
+    },
+    {
       "name": "Import paper",
       "outputPathTemplate": "Sources/{{citekey}}.md",
       "imageOutputPathTemplate": "_Vault/_Attachments",
@@ -16,6 +23,6 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"
 }

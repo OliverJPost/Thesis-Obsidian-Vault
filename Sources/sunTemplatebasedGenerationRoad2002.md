@@ -16,8 +16,6 @@ year: 2002
 
 %% begin notes %%
 ## Permanent notes
-importance::undefined
-completed::false
 ### Initial thoughts:
 
 
@@ -35,4 +33,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.663+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.502+02:00 %%

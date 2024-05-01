@@ -1,3 +1,9 @@
+---
+possible layers:
+  - buildings
+implemented layers: 
+scale: single
+---
 # Corner Count
 #type/metric 
 data::footprints

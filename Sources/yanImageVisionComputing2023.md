@@ -16,8 +16,6 @@ year: 2023
 
 %% begin notes %%
 ## Permanent notes
-importance::undefined
-completed::false
 ### Initial thoughts:
 
 

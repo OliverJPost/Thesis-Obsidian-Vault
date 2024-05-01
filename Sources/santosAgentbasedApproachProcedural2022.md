@@ -1,6 +1,6 @@
 ---
 aliases: ["Santos et al. (2022) An agent-based approach to procedural city generation incorporating Land Use and Transport Interaction models"]
-tags: [districts, roads, step/generation, type/reference]
+tags: [🔹, districts, roads, step/generation, type/reference]
 year: 2022
 ---
 # An agent-based approach to procedural city generation incorporating Land Use and Transport Interaction models [📖](zotero://select/library/items/VX96L5IM)
@@ -22,10 +22,9 @@ year: 2022
 > content: "@santosAgentbasedApproachProcedural2022" -file:@santosAgentbasedApproachProcedural2022
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-10 at 23.56.42@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-10 at 23.56.42@2x.png]]
 ## Permanent notes
-importance::high
-completed::false
 ### Initial thoughts:
 - Significance unclear, does not really go into results but shows a lot of equations and setup of the agents
 
@@ -43,4 +42,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.331+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.417+02:00 %%

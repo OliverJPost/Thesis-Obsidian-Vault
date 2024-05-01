@@ -1,3 +1,12 @@
+---
+possible layers:
+  - blocks
+  - buildings
+  - enclosures
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Perimeter
 #type/metric 
 data::footprints

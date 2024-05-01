@@ -1,6 +1,6 @@
 ---
 aliases: ["Cura et al. (2018) StreetGen"]
-tags: [roads, step/export, type/reference]
+tags: [roads, step/export, type/reference, 🔸]
 year: 2018
 ---
 # StreetGen : In base city scale procedural generation of streets: road network, road surface and street objects [📖](zotero://select/library/items/BW6YMKII)
@@ -24,10 +24,9 @@ year: 2018
 > content: "@curaStreetGenBaseCity2018" -file:@curaStreetGenBaseCity2018
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 14.45.13@2x.png|canvas-top]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 14.45.13@2x.png|canvas-top]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Seems very solid for 2D road surface generation. Useful for final output model.
 - ~ How to use for 3D model?
@@ -48,4 +47,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:35.792+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.618+02:00 %%

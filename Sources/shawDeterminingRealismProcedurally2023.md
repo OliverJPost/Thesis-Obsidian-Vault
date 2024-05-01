@@ -1,6 +1,6 @@
 ---
 aliases: ["Shaw et al. (2023) Determining Realism of Procedurally Generated City Road Networks"]
-tags: [roads, step/generation, type/reference]
+tags: [roads, step/generation, type/reference, 🔸]
 year: 2023
 ---
 # Determining Realism of Procedurally Generated City Road Networks [📖](zotero://select/library/items/ES8XLIIE)
@@ -16,10 +16,9 @@ year: 2023
 > content: "@shawDeterminingRealismProcedurally2023" -file:@shawDeterminingRealismProcedurally2023
 > ```
 
-%% begin notes %%![[Pasted image 20231212122055.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231212122055.png]]
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - Unclear how well it actually measures quality, seems to use some fairly simple metrics
 - Of course better than manual judging
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.338+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.438+02:00 %%

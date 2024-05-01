@@ -1,5 +1,16 @@
+---
+possible layers:
+  - buildings
+  - blocks
+  - enclosures
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Equivalent Rectangular index
 #type/metric
+
+![[CleanShot 2024-02-08 at 00.15.05@2x.png]]
 
 Calculated using [[MomepyToolkitUrban]]'s `EquivalentRectangularIndex`
 Originally from [[basaranerPerformanceShapeIndices2017]]

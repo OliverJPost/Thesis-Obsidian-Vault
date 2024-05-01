@@ -5,7 +5,9 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "MCL Wide Views",
-    "canvas-top"
+    "canvas-top",
+    "image_table"
   ],
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "baseFontSize": 18
 }

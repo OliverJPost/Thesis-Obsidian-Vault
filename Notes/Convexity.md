@@ -1,3 +1,12 @@
+---
+possible layers:
+  - buildings
+  - blocks
+  - enclosures
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Convexity
 #type/metric 
 

@@ -1,6 +1,6 @@
 ---
 aliases: ["Martinez et al. (2022) RODGEN"]
-tags: [roads, step/generation, type/reference]
+tags: [roads, step/generation, type/reference, 🔻]
 year: 2022
 ---
 # RODGEN: an interactive interface for road network generation [📖](zotero://select/library/items/ZLYAI4W6)
@@ -16,10 +16,9 @@ year: 2022
 > content: "@martinezRODGENInteractiveInterface2022" -file:@martinezRODGENInteractiveInterface2022
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-10 at 22.49.10@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-10 at 22.49.10@2x.png]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Looks like the results are very unrealistic. It just takes existing road layouts and puts them in weird quadrants
 ### Relations:
@@ -36,4 +35,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:37.328+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.139+02:00 %%

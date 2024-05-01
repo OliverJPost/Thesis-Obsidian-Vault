@@ -1,6 +1,6 @@
 ---
 aliases: ["josauder (2023) josauder/procedural_city_generation"]
-tags: [buildings, districts, roads, step/generation, type/implementation]
+tags: [buildings, districts, roads, step/generation, type/implementation, 🔸]
 year: 2023
 ---
 # josauder/procedural_city_generation [📖](zotero://select/library/items/5GLNDZ2C)
@@ -16,10 +16,9 @@ year: 2023
 > content: "@josauderJosauderProcedural_city_generation2023" -file:@josauderJosauderProcedural_city_generation2023
 > ```
 
-%% begin notes %%[![_images/currentstate.png](http://josauder.github.io/procedural_city_generation/_images/currentstate.png)](http://josauder.github.io/procedural_city_generation/#procedural-city-generation-in-python-documentation)
+%% begin notes %%
+thumb::![_images/currentstate.png](http://josauder.github.io/procedural_city_generation/_images/currentstate.png)
 ## Permanent notes
-importance::medium
-completed::false
 ### Initial thoughts:
 - The code for the road network generation might be useful, even though it seems rudimentary (grid, organic, circular)
 - Building footprint generation might be interesting, but apparently uses Blender modifiers
@@ -38,4 +37,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.406+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.883+02:00 %%

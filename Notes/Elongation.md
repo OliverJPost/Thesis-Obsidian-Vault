@@ -1,5 +1,17 @@
+---
+possible layers:
+  - buildings
+  - blocks
+  - enclosures
+  - tessellation
+implemented layers: 
+scale: single
+---
 # Elongation
 #type/metric
+
+- ! What about this? Values seem incorrect/flipped
+![[CleanShot 2024-02-08 at 00.13.16@2x.png]]
 
 Can be calculated with [[MomepyToolkitUrban]]
 

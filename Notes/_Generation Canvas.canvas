@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"716bcf308a78cd96","x":-580,"y":-280,"width":400,"height":400,"type":"file","file":"Notes/Grid & Road Generation.canvas"},
+		{"id":"629010d2d2ff055e","x":-20,"y":-280,"width":400,"height":400,"type":"file","file":"Notes/Block Generation.canvas"}
+	],
+	"edges":[
+		{"id":"839a86b91c36ed20","fromNode":"716bcf308a78cd96","fromSide":"right","toNode":"629010d2d2ff055e","toSide":"left"}
+	]
+}

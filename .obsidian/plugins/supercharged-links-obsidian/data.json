@@ -57,6 +57,30 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "type/metric",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3268-c897",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "type/layer",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1af8-a6c0",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

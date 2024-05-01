@@ -3,28 +3,42 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#literature-note",
+      "query": "tag:#type/reference",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#type/utility  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#type/data  ",
+      "color": {
+        "a": 1,
+        "rgb": 2496743
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1.23473684210526,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.66335042317708,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0697258283664641,
+  "scale": 2.5399676162482616,
   "close": false
 }

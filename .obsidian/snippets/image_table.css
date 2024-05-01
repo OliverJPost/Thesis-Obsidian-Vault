@@ -1,0 +1,8 @@
+/* This CSS targets images in the Dataview tables */
+.dataview.table-view img {
+    width: 100px !important;
+    /* Set the width to your preference */
+    height: auto;
+    /* Maintains the aspect ratio */
+
+}

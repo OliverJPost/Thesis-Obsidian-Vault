@@ -1,6 +1,6 @@
 ---
 aliases: [" ProceduralCityMod.pdf"]
-tags: [districts, roads, step/generation, type/reference]
+tags: [districts, roads, step/generation, type/reference, 🔻]
 year: 
 ---
 # ProceduralCityMod.pdf [📖](zotero://select/library/items/68QV2RPU)
@@ -14,10 +14,9 @@ year:
 > content: "@ProceduralCityMod" -file:@ProceduralCityMod
 > ```
 
-%% begin notes %%![[Pasted image 20231210231218.png]]
+%% begin notes %%
+thumb::![[Pasted image 20231210231218.png]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - No equations, no code, lower quality results than [[lechnerProceduralModelingUrban2006]] (same author)
 
@@ -35,4 +34,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:38.010+01:00 %%
+%% Import Date: 2024-05-01T00:52:43.333+02:00 %%

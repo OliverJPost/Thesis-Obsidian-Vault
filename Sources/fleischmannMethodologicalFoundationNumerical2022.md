@@ -1,6 +1,6 @@
 ---
 aliases: ["Fleischmann et al. (2022) Methodological foundation of a numerical taxonomy of urban form"]
-tags: [buildings, districts, roads, step/analysis, type/reference]
+tags: [💎, buildings, districts, roads, step/analysis, type/implementation, type/reference]
 year: 2022
 ---
 # Methodological foundation of a numerical taxonomy of urban form [📖](zotero://select/library/items/U3LNNAUG)
@@ -16,10 +16,9 @@ year: 2022
 > content: "@fleischmannMethodologicalFoundationNumerical2022" -file:@fleischmannMethodologicalFoundationNumerical2022
 > ```
 
-%% begin notes %%![[CleanShot 2023-12-07 at 15.09.40@2x.png]]
+%% begin notes %%
+thumb::![[CleanShot 2023-12-07 at 15.09.40@2x.png]]
 ## Permanent notes
-importance::extreme
-completed::false
 ### Initial thoughts:
 - Sets up a system to **identify/cluster cities by district type** from street network and building footprint information
 
@@ -37,4 +36,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T15:10:36.992+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.695+02:00 %%

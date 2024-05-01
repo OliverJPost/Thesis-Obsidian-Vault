@@ -1,6 +1,6 @@
 ---
 aliases: ["Kelly et al. (2007) Citygen"]
-tags: [buildings, plots, roads, step/generation, type/reference]
+tags: [buildings, plots, roads, step/generation, type/reference, 🔻]
 year: 2007
 ---
 # Citygen: An Interactive System for Procedural City Generation [📖](zotero://select/library/items/WSPM5NFT)
@@ -16,10 +16,9 @@ year: 2007
 > content: "@kellyCitygenInteractiveSystem2007" -file:@kellyCitygenInteractiveSystem2007
 > ```
 
-%% begin notes %%![[Pasted image 20231207192825.png|canvas-top]]
+%% begin notes %%
+thumb::![[Pasted image 20231207192825.png|canvas-top]]
 ## Permanent notes
-importance::low
-completed::false
 ### Initial thoughts:
 - Road network looks bad and unrealistic
 - No innovations in building and plot generation
@@ -39,4 +38,4 @@ completed::false
 
 
 
-%% Import Date: 2023-12-07T14:17:36.550+01:00 %%
+%% Import Date: 2024-05-01T00:52:42.914+02:00 %%
